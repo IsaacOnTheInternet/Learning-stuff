@@ -25,7 +25,7 @@ bool checkIfHappyIsFull(class tamagochiFunct *tama);
 void skipDay(class tamagochiFunct *tama);
 void changeStats(class tamagochiFunct *tama);
 
-//To-do Settings functions
+//Settings functions
 void displayMenu();
 void configMenu(class tamagochiFunct *tama, class tamagochiInventoryFood *food, class tamagochiInventoryToys *toys);
 void configChangePetName(class tamagochiFunct *tama);
